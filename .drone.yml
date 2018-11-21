@@ -19,10 +19,4 @@ pipeline:
       event: push
       branch: 
         exclude: [ master ]
-  slack:
-    image: plugins/slack
-    channel: dev
-    username: drone
-    when:
-      status: [ failure ]
-    secrets: [ slack_webhook ]
+
