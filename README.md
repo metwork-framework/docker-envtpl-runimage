@@ -8,7 +8,7 @@
 
 [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/docker-envtpl-runimage/status.svg)](http://metwork-framework.org:8000/metwork-framework/docker-envtpl-runimage)
 [![DockerHub](https://github.com/metwork-framework/resources/blob/master/badges/dockerhub_link.svg)](https://hub.docker.com/r/metwork/docker-envtpl-runimage/)
-[![Maintenance](https://github.com/metwork-framework/resources/blob/master/badges/maintained.svg)]()
+[![Maintenance](https://raw.githubusercontent.com/metwork-framework/resources/master/badges/maintained.svg)](https://github.com/metwork-framework/resources/blob/master/badges/maintained.svg)
 
 
 
