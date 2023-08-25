@@ -7,7 +7,7 @@
 
 
 [![GitHub CI](https://github.com/metwork-framework/docker-envtpl-runimage/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/docker-envtpl-runimage/actions?query=workflow%3ACI+branch%3Amaster)
-[![DockerHub](https://github.com/metwork-framework/resources/blob/master/badges/dockerhub_link.svg)](https://hub.docker.com/r/metwork/docker-envtpl-runimage/)
+[![DockerHub](https://github.com/metwork-framework/resources/blob/master/badges/dockerhub_link.svg)](https://hub.docker.com/r/metwork/nvtpl-runimage/)
 [![Maintenance](https://raw.githubusercontent.com/metwork-framework/resources/master/badges/maintained.svg)](https://github.com/metwork-framework/resources/blob/master/badges/maintained.svg)
 
 
